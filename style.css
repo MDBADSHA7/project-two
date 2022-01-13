@@ -105,3 +105,29 @@ background-color:blue;
         flex-direction: column;
     }
 }
+.nav{
+    display: flex;
+    border:2px dotted honeydew;
+    border-radius: 10px;
+    background-color: honeydew;
+}
+.margin{
+    margin-left: 6cm;
+    color: forestgreen;
+}
+
+.buty{
+    text-decoration: none;
+    background-color: 1px blue;
+    margin-right: 5px;
+    padding-left: 10px;
+    justify-content: center;
+}
+.buty:hover{
+    color: hotpink;
+    background-color: lightgoldenrodyellow;
+}
+.margin:hover{
+    color: khaki;
+    background-color: red;
+}
